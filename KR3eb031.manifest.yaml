@@ -1,0 +1,167 @@
+canonical_identifier: bkk:krp/KR3eb031/v1
+canonical_location: https://kanripo.org/bkk/KR3eb031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫學脈燈
+  identifiers:
+    krp: KR3eb031
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb031.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb031_000.yaml, hash: 'sha256:fce8c1c8a250376a92b12b33b395e14a3ce4e6a2f7ea79ab7e66c991b679a1a7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb031_000.markers.yaml, hash: 'sha256:26fb65cabbeb5a8392eb996c69e177f61456e01ce5af03da5344b624ff881b13'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 101
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1178
+  label: 脈神通一子著
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d4.h1s1
+    span:
+    - body
+    - 1178
+    - 1538
+  label: 部位解
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d5.h1s1
+    span:
+    - body
+    - 1538
+    - 13305
+  label: 二十八脈出診家正眼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d6.h1s1
+    span:
+    - body
+    - 13305
+    - 13827
+  label: 各病宜忌脈出馮氏錦囊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d7.h1s1
+    span:
+    - body
+    - 13827
+    - 14258
+  label: 脈要歌從權輿改正
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d8.h1s1
+    span:
+    - body
+    - 14258
+    - 14320
+  label: 死脈歌出權輿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d9.h1s1
+    span:
+    - body
+    - 14320
+    - 16474
+  label: 矯世惑脈辨汪石山
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d10.h1s1
+    span:
+    - body
+    - 16474
+    - 16573
+  label: 妊娠脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d11.h1s1
+    span:
+    - body
+    - 16573
+    - 17127
+  label: 天和脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d12.h1s1
+    span:
+    - body
+    - 17127
+    - 18644
+  label: 素問六十年運氣病治之紀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d13.h1s1
+    span:
+    - body
+    - 18644
+    - 19510
+  label: 奇經八脈出軒岐究政
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d14.h1s1
+    span:
+    - body
+    - 19510
+    - 21167
+  label: 舉脈訣悖經之非
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb031_jc_000-d15.h1s1
+    span:
+    - body
+    - 21167
+    - 21269
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:14aeb76291605300b4c7ee1696b14d6dbe8399b13ae5b2bfbe8741578222b741
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
